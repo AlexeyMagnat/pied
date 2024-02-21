@@ -1,1 +1,3 @@
 # pied
+
+My simple page
